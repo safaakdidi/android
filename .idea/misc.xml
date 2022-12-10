@@ -3,11 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/PAVILION/StudioProjects/MyApplication/app/src/main/res/layout/activity_class_attendance.xml" value="0.2" />
         <entry key="..\:/Users/PAVILION/StudioProjects/MyApplication/app/src/main/res/layout/activity_load_image.xml" value="0.264" />
         <entry key="..\:/Users/PAVILION/StudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/PAVILION/StudioProjects/MyApplication/app/src/main/res/layout/activity_main2.xml" value="0.264" />
+        <entry key="..\:/Users/PAVILION/StudioProjects/MyApplication/app/src/main/res/layout/activity_main3.xml" value="0.21693840579710144" />
         <entry key="..\:/Users/PAVILION/StudioProjects/MyApplication/app/src/main/res/layout/activity_pizza_order.xml" value="0.1638888888888889" />
         <entry key="..\:/Users/PAVILION/StudioProjects/MyApplication/app/src/main/res/layout/dropdown_item.xml" value="0.1" />
+        <entry key="..\:/Users/PAVILION/StudioProjects/MyApplication/app/src/main/res/layout/fragment_blank.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/PAVILION/StudioProjects/MyApplication/app/src/main/res/layout/student_item.xml" value="0.2" />
       </map>
     </option>
   </component>

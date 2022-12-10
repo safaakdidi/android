@@ -1,3 +1,44 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string-array name="student_name">
+        <item>Safa</item>
+        <item>Emna</item>
+        <item>Houssem</item>
+        <item>Nada</item>
+        <item>Mezen</item>
+        <item>Youssef</item>
+        <item>Sarah</item>
+        <item>Hela</item>
+        <item>Hedi</item>
+        <item>Ismail</item>
+
+    </string-array>
+    <string-array name="student_lastname">
+        <item>kd</item>
+        <item>bk</item>
+        <item>sa</item>
+        <item>kd</item>
+        <item>kd</item>
+        <item>sm</item>
+        <item>la</item>
+        <item>kh</item>
+        <item>hh</item>
+        <item>sm</item>
+
+    </string-array>
+    <string-array name="student_genre">
+        <item>female</item>
+        <item>female</item>
+        <item>male</item>
+        <item>female</item>
+        <item>male</item>
+        <item>male</item>
+        <item>female</item>
+        <item>female</item>
+        <item>male</item>
+        <item>male</item>
+
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
